@@ -119,3 +119,19 @@ Esta seção contém um material extra em formato de mini desafio para aprimoram
  - describe: Agrupa testes relacionados a um fluxo funcional. Aqui define o escopo “Adicionar produto ao carrinho”.
  - it: Define um caso de teste individual, descrevendo o comportamento esperado.
  - cy.visit(): Navega para a URL inicial da aplicação (setup do teste).
+
+---
+
+
+## 💾 Relatório Completo de Teste - Quality Assurance Full Stack (Todos os blocos em arquivo único)
+
+Este repositório contém o relatório completo referente ao **Teste Técnico de Quality Assurance Full Stack**, detalhando todas as etapas, resultados e análises.
+
+Caso você queira uma **versão completa e formatada do relatório**, que inclui o **relatório completo de todos os blocos**, baixe o arquivo PDF anexo.
+
+### 🔗 Link para Download
+
+Para ter o documento completo em mãos, clique no link abaixo:
+
+[**⬇️ Download: Teste Técnico – Quality Assurance Full Stack.pdf**](Teste%20T%C3%A9cnico%20%E2%80%93%20Quality%20Assurance%20Full%20Stack.pdf)
+
