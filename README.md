@@ -41,11 +41,6 @@ Esta seção contém o material de apoio sobre o processo e a execução dos tes
 * Os links para **arquivos PDF** devem abrir a visualização diretamente no seu navegador.
 * Os links para **arquivos XLSX e PPTX** iniciarão o download do arquivo.
 
-### Notas de Acesso:
-
-* O link para o arquivo **PDF** deve abrir a visualização diretamente no seu navegador.
-* O link para o arquivo **PPTX** iniciará o download do arquivo de slides.
-
 ---
 
 ### 📂 Bloco 3: Relatório de Bugs
