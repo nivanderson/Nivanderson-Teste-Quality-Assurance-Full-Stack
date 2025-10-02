@@ -123,7 +123,7 @@ Esta seção contém um material extra em formato de mini desafio para aprimoram
 ---
 
 
-## 💾 Relatório Completo de Teste - Quality Assurance Full Stack (Todos os blocos em arquivo único)
+## 💾 Relatório Completo - (Todos os blocos em arquivo único)
 
 Este repositório contém o relatório completo referente ao **Teste Técnico de Quality Assurance Full Stack**, detalhando todas as etapas, resultados e análises.
 
